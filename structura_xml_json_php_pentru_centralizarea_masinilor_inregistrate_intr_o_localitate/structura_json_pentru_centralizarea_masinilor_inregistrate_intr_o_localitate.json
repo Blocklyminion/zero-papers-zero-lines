@@ -1,0 +1,27 @@
+{
+  "cars": {
+    "car": {
+      "nameplate": "CT-00-XYZ",
+      "category": "Vehicule",
+      "manufacter": "Dacia",
+      "model": "LOGAN",
+      "ci_number": "SD LSDAE",
+      "vin": "XYZ00000000000000",
+      "registration_series": "K",
+      "owner": "Chivu Cornel",
+      "owner_address": "Str. SOLOJA Nr. 45 Bl F2 Sc. A Ap.11 Mun. Constanta Jud. Constanta",
+      "lat": "31.977144",
+      "long": "-81.224593",
+      "manufacter_date": "05.04.2006",
+      "registration_date": "28.08.2008",
+      "cylindrel_capacity": "1555",
+      "nominal_weight": "1097",
+      "maximum_weight": "1390",
+      "nominal_power": "55 Kw",
+      "fuel_type": "Gasoline",
+      "color": "White",
+      "number_of_seats": "5",
+      "date_of_next_inspection": "04.04.2010"
+    }
+  }
+}
